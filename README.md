@@ -4,7 +4,7 @@ This repository contains the implementation and results of a comparative study e
 
 [See paper](https://drive.google.com/file/d/1JosZcEmOQKx1z8h2V174_Y1foELeNcLG/view?usp=sharing)
 
-[Coverpage](img/coverpage.jpg)
+<img src="/img/coverpage.jpg" alt= “” width="30%" style="display: block; margin: 0 auto">
 
 ## Table of Contents
 - [Introduction](#introduction)
